@@ -1,11 +1,21 @@
-# PIO Stuff
+# Platform IO Stuff
+
+## Youtube instructions
 
 (Getting Started with PlatformIO)[https://www.youtube.com/watch?v=JmvMvIphMnY]
 
-(Platform IO)[https://docs.platformio.org/]
-
-(Youtube)[https://www.youtube.com/watch?v=PYSy_PLjytQ]
-
-(platformio.ini)[https://docs.platformio.org/en/latest/projectconf/index.html]
+(Goodby Arduino IDE)[https://www.youtube.com/watch?v=PYSy_PLjytQ]
 
 (Debug arduino)[https://www.youtube.com/watch?v=7wx27FcluMg&t=0s]
+
+## Visual Studio code
+
+(Get started GCC)[https://code.visualstudio.com/docs/cpp/config-mingw]
+
+(msys2)[https://www.msys2.org/]
+
+## Platform IO
+
+(Platform IO)[https://docs.platformio.org/]
+
+(platformio.ini)[https://docs.platformio.org/en/latest/projectconf/index.html]
